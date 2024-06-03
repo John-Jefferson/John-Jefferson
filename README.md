@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @John-Jefferson 
-- 👀 I’m interested in Web-development, software engineer/development, and programming
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in software engineer/development, and programming
+- 🌱 I’m currently programming
 - 💞️ I’m looking to collaborate on more cooler and expirience individual coders
 - 📫 How to reach me discord
 
