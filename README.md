@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @John-Jefferson 
-- 👀 I’m interested in software engineer/development, and programming
-- 🌱 I’m currently programming
-- 💞️ I’m looking to collaborate on more cooler and expirience individual coders
-- 📫 How to reach me discord
+Hi! I’m John Jefferson Leonardo, a student and aspiring Data Analyst with a strong interest in transforming raw data into meaningful insights that support better decisions, strategy, and problem-solving.
 
-<!---
-John-Jefferson/John-Jefferson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository showcases my learning journey, and projects that I created to explore and familiarize myself with various tools to develop systems
